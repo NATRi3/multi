@@ -1,0 +1,17 @@
+    Trucks:
+milk, 20, arrive_state, 30;
+bread, 22, arrive_state, 30;
+clothes, 23, arrive_state, 30;
+bread, 18, arrive_state, 30;
+milk, 25, arrive_state, 30;
+bread, 28, arrive_state, 30;
+bread, 22, arrive_state, 30;
+clothes, 21, arrive_state, 30;
+milk, 23, arrive_state, 30;
+bread, 24, arrive_state, 30;
+clothes, 19, arrive_state, 30;
+clothes, 29, arrive_state, 30.
+    Storage:
+Terminals:5;
+Volume:300;
+Products: [milk, 20], [bread, 30], [clothes, 10]
